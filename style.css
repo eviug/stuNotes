@@ -469,10 +469,10 @@ footer {
 /* TOPICS */
 
 .topic-body {
-    width: 50vw;
+    max-width:1200px;
+    width:100%;
     margin: 0 auto;
-    /*background-color:#2b2a33;*/
-    background-color:#00ff00;
+    background-color:#2b2a33;
 }
 
 .topic-container {
