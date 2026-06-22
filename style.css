@@ -471,7 +471,8 @@ footer {
 .topic-body {
     width: 50vw;
     margin: 0 auto;
-    background-color:#2b2a33;
+    /*background-color:#2b2a33;*/
+    background-color:#00ff00;
 }
 
 .topic-container {
